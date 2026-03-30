@@ -1,5 +1,5 @@
 ---
-title: "Search for Cosmogenic Cascade Emission from Blazar 51 TXS 0506+056"
+title: "Search for Cosmogenic Cascade Emission from Blazar TXS 0506+056"
 collection: publications
 category: manuscripts
 permalink: /publication/acharyya_2017_txs
