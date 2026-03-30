@@ -8,4 +8,3 @@ paperurl: "https://moriond.in2p3.fr/2026/VHEPU/vhepu-agenda.html"
 date: 2026-03-17
 location: "La Thuile, Italy"
 ---
-
