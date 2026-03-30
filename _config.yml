@@ -7,15 +7,34 @@
 # server process.
 
 # Basic Site Settings
+
+
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "default"
+title                    : "Dr. Atreya Acharyya PhD AFHEA"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url: "https://atreyaacharyya.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "Atreya Acharyya"
+description              : &description "Astrophysicist specializing in gamma-ray astronomy, AGN, and multi-messenger astrophysics"
+url                      : "https://atreyaacharyya.github.io"
+baseurl                  : ""
 repository               : "atreyaacharyya/atreyaacharyya.github.com"
+
+author:
+  avatar           : "profile.png"
+  name             : "Atreya Acharyya"
+  bio              : "Astrophysicist working on gamma-ray astronomy, AGN, and multi-messenger astrophysics."
+  location         : "Odense, Denmark"
+  employer         : "University of Southern Denmark"
+  email            : "atreya@cp3.sdu.dk"
+
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  orcid            : "https://orcid.org/0000-0002-2028-9230"
+
+  github           : "atreyaacharyya"
+  linkedin         : "atreya-acharyya-95b652a9"
+
+
+
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
