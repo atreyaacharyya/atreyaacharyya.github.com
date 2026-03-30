@@ -1,11 +1,9 @@
 ---
-title: "Localising the gamma-ray emission in Flat Spectrum Radio Quasars and an extragalactic population study for the Cherenkov Telescope Array"
+title: "Probing a Cosmogenic Origin of Astrophysical Neutrinos and Cosmic Rays Using Gamma-Ray Observations of TXS 0506+056"
 collection: publications
 category: manuscripts
-permalink: /publication/acharyya_phd
-date: 2021-01-01
-venue: ""
-paperurl: "https://etheses.durham.ac.uk/id/eprint/14129/1/the_thesis.pdf"
-excerpt: "PhD thesis on gamma-ray emission in FSRQs and CTA population studies."
+permalink: /publication/acharyya_2026
+date: 2025-01-01
+paperurl: "https://doi.org/10.3847/1538-4357/ae1d72"
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
