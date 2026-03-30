@@ -3,7 +3,7 @@ title: "Locating the gamma-ray emission region in the brightest Fermi-LAT flat-s
 collection: publications
 category: manuscripts
 permalink: /publication/acharyya_2021_mnras_fsqr
-date: 2021-01-01
+date: 2021-02-04
 venue: "Monthly Notices of the Royal Astronomical Society, 500(4), 5297–5321"
 paperurl: "https://doi.org/10.1093/mnras/staa3483"
 excerpt: |
