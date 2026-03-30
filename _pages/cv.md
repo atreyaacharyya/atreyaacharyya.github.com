@@ -55,11 +55,6 @@ University of Alabama, USA (2021–2023)
 
 ## Teaching and Mentoring
 
-<ul>
-{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
 
 **Lecturer, University of Southern Denmark (2023–Present)**
 
