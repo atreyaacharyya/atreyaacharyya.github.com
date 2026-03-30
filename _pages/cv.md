@@ -9,29 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-## Profile
-
-Astrophysicist specializing in high-energy gamma-ray astronomy, active galactic nuclei (AGN), and multi-messenger astrophysics.
-My research focuses on understanding particle acceleration and emission processes in extreme astrophysical environments using data from Fermi-LAT, H.E.S.S., and VERITAS, alongside population-level studies and theoretical modelling.
-
-* Co-chair, CTAO AGN Population Task Force
-* Co-Principal Investigator on NASA and NSF-funded projects
-* > 1100 citations, h-index 17
-
----
-
 ## Education
 
-**Ph.D., Gamma-ray Astronomy**
-Durham University, United Kingdom (2021)
+**Ph.D., Gamma-ray Astronomy**  
+Durham University, United Kingdom (2021)  
+- Thesis: *Localising the gamma-ray emission in Flat Spectrum Radio Quasars and an extragalactic population study for the Cherenkov Telescope Array*  
+- Supervisors: Prof. Paula Chadwick, Prof. Anthony Brown
 
-* Thesis: *Localising the gamma-ray emission in Flat Spectrum Radio Quasars and an extragalactic population study for the Cherenkov Telescope Array*
-* Supervisors: Prof. Paula Chadwick, Prof. Anthony Brown
+**MPhys, Physics and Astronomy**  
+Durham University, United Kingdom (2017)  
+- Thesis: *Analytic Results for Anharmonic Oscillators*
 
-**MPhys, Physics and Astronomy**
-Durham University, United Kingdom (2017)
-
-* Thesis: *Analytic Results for Anharmonic Oscillators*
 
 ---
 
