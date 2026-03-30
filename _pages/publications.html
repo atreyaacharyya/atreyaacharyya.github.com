@@ -26,17 +26,33 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
+      
+      <!-- Publication Information -->
       <h3>{{ post.title }}</h3>
-      <p>
-        <a href="{{ post.paperurl }}">See here for more</a>
-      </p>
+      <p><strong>Published:</strong> {{ post.date | date: "%B %d, %Y" }} <br />
+      <strong>Venue:</strong> {{ post.venue }}</p>
+      
+      <!-- Excerpt -->
+      <p><strong>Excerpt:</strong> {{ post.excerpt }}</p>
+      
+      <!-- Link to the full paper -->
+      <p><a href="{{ post.paperurl }}">See here for more</a></p>
+      
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
+    
+    <!-- Publication Information -->
     <h3>{{ post.title }}</h3>
-    <p>
-      <a href="{{ post.paperurl }}">See here for more</a>
-    </p>
+    <p><strong>Published:</strong> {{ post.date | date: "%B %d, %Y" }} <br />
+    <strong>Venue:</strong> {{ post.venue }}</p>
+    
+    <!-- Excerpt -->
+    <p><strong>Excerpt:</strong> {{ post.excerpt }}</p>
+    
+    <!-- Link to the full paper -->
+    <p><a href="{{ post.paperurl }}">See here for more</a></p>
+    
   {% endfor %}
 {% endif %}
