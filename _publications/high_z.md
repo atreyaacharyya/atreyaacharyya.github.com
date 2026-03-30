@@ -3,7 +3,7 @@ title: "Searching for Internal Absorption Signatures in High-redshift Blazars"
 collection: publications
 category: manuscripts
 permalink: /publication/dmytriiev_2025
-date: 2025-01-01
+date: 2025-02-05
 paperurl: "https://dx.doi.org/10.3847/1538-4357/adb398"
 ---
 
