@@ -25,23 +25,25 @@
           alt="">
       </div>
     {% endif %}
+    
+    <!-- Talk Title with link -->
     <h2 class="archive__item-title" itemprop="headline">
-      <!-- Link the title to the individual talk page using the permalink -->
       <a href="{{ base_path }}{{ post.permalink }}" rel="permalink">{{ title }}</a>
-      <!-- Optionally add a permanent link icon -->
       <a href="{{ base_path }}{{ post.permalink }}" rel="permalink">
         <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>
       </a>
     </h2>
+
+    <!-- Date and Location -->
+    <p class="talk-meta">
+      <span class="talk-date">{{ post.date | date: "%B %d, %Y" }}</span><br>
+      <span class="talk-details">{{ post.type }}, {{ post.venue }}, {{ post.location }}</span>
+    </p>
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}
-      <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
-    {% endif %}
-    {% if post.venue %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.type }}, {{ post.venue }}, {{ post.location }}</p>
-    {% endif %}
+    
     {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
