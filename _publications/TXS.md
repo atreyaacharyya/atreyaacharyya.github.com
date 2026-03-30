@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/acharyya_2026
 date: 2025-12-23
+venue: "The Astrophysical Journal, 996, 38"
 paperurl: "https://iopscience.iop.org/article/10.3847/1538-4357/ae1d72"
 ---
 
