@@ -15,11 +15,11 @@ redirect_from:
 ## Profile
 
 Astrophysicist specializing in high-energy gamma-ray astronomy, active galactic nuclei (AGN), and multi-messenger astrophysics.
-Expert in Fermi-LAT, H.E.S.S., and VERITAS data analysis, with a strong focus on population studies, variability, and connections to neutrinos and fundamental physics.
+My research focuses on understanding particle acceleration and emission processes in extreme astrophysical environments using data from Fermi-LAT, H.E.S.S., and VERITAS, alongside population-level studies and theoretical modelling.
 
 * Co-chair, CTAO AGN Population Task Force
 * Co-Principal Investigator on NASA and NSF-funded projects
-* > 1100 citations, h-index 17 
+* > 1100 citations, h-index 17
 
 ---
 
@@ -28,8 +28,8 @@ Expert in Fermi-LAT, H.E.S.S., and VERITAS data analysis, with a strong focus on
 **Ph.D., Gamma-ray Astronomy**
 Durham University, United Kingdom (2021)
 
-* Thesis: *Localising gamma-ray emission in FSRQs and population studies for CTA*
-* Supervisors: Paula Chadwick, Anthony Brown
+* Thesis: *Localising the gamma-ray emission in Flat Spectrum Radio Quasars and an extragalactic population study for the Cherenkov Telescope Array*
+* Supervisors: Prof. Paula Chadwick, Prof. Anthony Brown
 
 **MPhys, Physics and Astronomy**
 Durham University, United Kingdom (2017)
@@ -41,19 +41,19 @@ Durham University, United Kingdom (2017)
 ## Professional Experience
 
 **Postdoctoral Fellow**
-CP3-Origins, University of Southern Denmark (2023–Present)
+CP3-Origins, University of Southern Denmark, Denmark (2023–Present)
 
-* PI: Manuel Meyer (ERC Starting Grant)
-* Multi-messenger AGN studies using Fermi-LAT, H.E.S.S., VERITAS
-* CTAO science preparation and population modelling
-* Development of analysis pipelines and simulation frameworks
+* Working on an ERC-funded project led by Prof. Manuel Meyer
+* Multi-messenger studies of AGN using Fermi-LAT, H.E.S.S., and VERITAS
+* CTAO science preparation, including population modelling and detectability forecasts
+* Development of analysis tools and pipelines for high-energy astrophysics
 
 **Postdoctoral Fellow**
-University of Alabama (2021–2023)
+University of Alabama, USA (2021–2023)
 
-* PI: Marcos Santander (NSF WoU-MMA project)
-* Led multiwavelength studies of AGN associated with IceCube neutrinos
-* Developed automated pipelines for real-time Fermi-LAT analysis
+* NSF-funded WoU-MMA project under Prof. Marcos Santander
+* Multiwavelength and multi-messenger analysis of AGN
+* Led studies connecting gamma rays with neutrino observations
 * Contributed to VERITAS observations and pSCT commissioning
 
 ---
@@ -61,59 +61,57 @@ University of Alabama (2021–2023)
 ## Research Interests
 
 * Active Galactic Nuclei and relativistic jets
-* Gamma-ray and multi-messenger astrophysics
-* Neutrino–gamma-ray connections
+* Gamma-ray astronomy (GeV–TeV energies)
+* Multi-messenger astrophysics (neutrinos, cosmic rays)
 * Population studies and luminosity functions
-* Axion-like particles and gamma-ray propagation
+* Fundamental physics with gamma rays (e.g. ALPs, EBL)
 
 ---
 
-## Publications (Selected Highlights)
+## Publications
 
-* First-author publications in *ApJ*, *MNRAS*, and *Galaxies*
-* Key contributions to VERITAS and CTA collaborations
-* Work includes:
-
-  * Multiwavelength AGN studies
-  * Dark matter searches with gamma rays
-  * CTA sensitivity forecasts and population modelling
-
-Full list available via Publications tab.
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
 
 ---
 
 ## Talks and Presentations
 
-* Invited and contributed talks at major international conferences:
-
-  * ICRC (2023, 2025)
-  * TeVPA
-  * CTA Consortium meetings (plenary + parallel)
-* Invited seminars at ECAP, Würzburg, and collaboration meetings
-* Regular speaker within CTAO, VERITAS, and Fermi collaborations
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
 
 ---
 
 ## Teaching and Mentoring
 
-**Lecturer – University of Southern Denmark (2023–Present)**
+<ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+**Lecturer, University of Southern Denmark (2023–Present)**
 
 * Delivered MSc-level course in Astroparticle Physics
 * Designed problem sets and supervised student projects
 
-**Athletic Tutor – University of Alabama (2022–2023)**
+**Athletic Tutor, University of Alabama (2022–2023)**
 
-* Tutored physics, mathematics, and statistics
+* Tutored physics, mathematics, and statistics to student-athletes
 
-**Teaching Assistant – Durham University (2018–2021)**
+**Physics Tutor & Teaching Assistant, Durham University (2018–2021)**
 
-* Led tutorials, marked coursework, and supported students
+* Led undergraduate tutorials and marked coursework
 
-**Mentoring**
+**Mathematics Tutor, Durham University (2018–2021)**
 
-* PhD: Weindong Jin (now UCLA postdoc) 
-* MSc: Johanna Müller (now PhD student) 
-* Undergraduate mentoring and supervision
+* Provided one-to-one support in mathematics and computational methods
 
 ---
 
@@ -128,15 +126,15 @@ Full list available via Publications tab.
 
 ## Funding and Grants
 
-* Co-PI, NASA NuSTAR Guest Observer Program (~€70k) 
-* Co-PI, NASA Fermi GI Program (~€90k) 
-* Contributor, NSF WoU-MMA project (~€260k) 
+* Co-Principal Investigator, NASA NuSTAR Guest Observer Program
+* Co-Principal Investigator, NASA Fermi Guest Investigator Program
+* Contributor, NSF WoU-MMA multi-messenger project
 
-Key contributions:
+Key contributions include:
 
 * Target selection based on neutrino alerts
-* Multiwavelength analysis pipelines
-* Joint gamma-ray and neutrino studies
+* Development of analysis pipelines
+* Multiwavelength and multi-messenger data analysis
 
 ---
 
