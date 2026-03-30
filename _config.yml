@@ -19,14 +19,14 @@ repository               : "atreyaacharyya/atreyaacharyya.github.com"
 
 # Site Author
 author:
+
   avatar           : "profile.png"
   name             : "Atreya Acharyya"
-  pronouns         :
   bio              : "Astrophysicist working on gamma-ray astronomy, AGN, and multi-messenger astrophysics."
   location         : "Odense, Denmark"
   employer         : "University of Southern Denmark"
-  uri              :
   email            : "atreya@cp3.sdu.dk"
+  uri              : "mailto:atreya@cp3.sdu.dk"
 
   # Academic websites
   academia         :
