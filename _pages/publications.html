@@ -26,11 +26,17 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
+      <h3>{{ post.title }}</h3>
+      <p>
+        <a href="{{ post.paperurl }}">See here for more</a>
+      </p>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
+    <h3>{{ post.title }}</h3>
+    <p>
+      <a href="{{ post.paperurl }}">See here for more</a>
+    </p>
   {% endfor %}
 {% endif %}
