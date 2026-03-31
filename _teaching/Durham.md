@@ -8,7 +8,6 @@ date: 2018-09-01
 location: "Durham, United Kingdom"
 ---
 
-##  Description
 
 I served as a Physics Tutor and Teaching Assistant at Durham University, delivering small-group tutorials to first-year undergraduate students in the Department of Physics (2018–2021).
 
