@@ -27,7 +27,11 @@
     
     <!-- Talk Title with correct permalink -->
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="{{ post.permalink }}" rel="permalink">{{ title }}</a>
+      <a href="{% if post.paperurl %}{{ post.paperurl }}{% else %}{{ post.permalink }}{% endif %}" 
+       rel="permalink" 
+       {% if post.paperurl %}target="_blank"{% endif %}>
+      {{ title }}
+      </a>
     </h2>
 
     <!-- Date and Location -->
