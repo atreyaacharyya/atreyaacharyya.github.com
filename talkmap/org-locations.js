@@ -15,6 +15,11 @@ var addressPoints = [
     6.1466014
   ],
   [
+    "Probing the origin of astrophysical neutrinos and ultra-high energy cosmic rays using VERITAS and multiwavelength observations of TXS 0506+056<br />TeV Particle Astrophysics (TeVPA), 2024; Chicago, USA",
+    41.8755616,
+    -87.6244212
+  ],
+  [
     "Gamma Ray Constraints on Heavy Axion Like Particle Decays from Fermi-LAT and H.E.S.S. Blazar Spectra<br />Rencontres de Moriond 2026; La Thuile, Italy",
     45.7162875,
     6.9486119
