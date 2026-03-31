@@ -12,7 +12,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
+
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -24,17 +24,14 @@
           alt="">
       </div>
     {% endif %}
-    
-    <!-- Talk Title with correct permalink -->
+
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="{% if post.paperurl %}{{ post.paperurl }}{% else %}{{ post.permalink }}{% endif %}" 
-       rel="permalink" 
-       {% if post.paperurl %}target="_blank"{% endif %}>
-      {{ title }}
+      <a href="{% if post.paperurl %}{{ post.paperurl }}{% else %}{{ post.permalink }}{% endif %}"
+         {% if post.paperurl %}target="_blank" rel="noopener noreferrer"{% else %}rel="permalink"{% endif %}>
+        {{ title }}
       </a>
     </h2>
 
-    <!-- Date and Location -->
     <p class="talk-meta">
       <span class="talk-date">{{ post.date | date: "%B %d, %Y" }}</span><br>
       <span class="talk-details">{{ post.type }}, {{ post.venue }}, {{ post.location }}</span>
@@ -43,7 +40,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    
+
     {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
