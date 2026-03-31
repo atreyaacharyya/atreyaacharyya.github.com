@@ -10,6 +10,11 @@ var addressPoints = [
     23.7348324
   ],
   [
+    "Unveiling the Quantum Nature of Black Holes: A First Proof of Hawking Radiation through Gamma-Ray Observations<br />39th International Cosmic Ray Conference (ICRC), 2025; Geneva, Switzerland",
+    46.2017559,
+    6.1466014
+  ],
+  [
     "Gamma Ray Constraints on Heavy Axion Like Particle Decays from Fermi-LAT and H.E.S.S. Blazar Spectra<br />Rencontres de Moriond 2026; La Thuile, Italy",
     45.7162875,
     6.9486119
