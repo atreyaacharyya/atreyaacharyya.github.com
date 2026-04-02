@@ -12,10 +12,10 @@ Here I will share selected photos from my travels.
 ## Italy (March 2026)
 *La Thuile · Venice · Verona · Milan*
 
-![La Thuile](/images/travel/la-thuile.jpg)
+![La Thuile](/images/travel/la-thuile.jpeg)
 
-![Venice](/images/travel/venice.jpg)
+![Venice](/images/travel/venice.jpeg)
 
-![Verona](/images/travel/verona.jpg)
+![Verona](/images/travel/verona.jpeg)
 
-![Milan](/images/travel/milan.jpg)
+![Milan](/images/travel/milan.jpeg)
