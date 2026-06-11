@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "contrast"
-title                    : "Dr. Atreya Acharyya PhD AFHEA"
+title: "Atreya Acharyya"
+name: "Dr. Atreya Acharyya"
 title_separator          : "-"
 name                     : &name "Atreya Acharyya"
 description              : &description "Astrophysicist specializing in gamma-ray astronomy, AGN, and multi-messenger astrophysics"
@@ -23,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Atreya Acharyya"
   bio              : "Astrophysicist working on gamma-ray astronomy, AGN, and multi-messenger astrophysics."
-  location         : "Odense, Denmark"
-  employer         : "University of Southern Denmark"
+  location: "Orsay / Paris, France"
+  employer: "Université Paris-Saclay / IJCLab"
   email            : "atreya@cp3.sdu.dk"
   uri              : "mailto:atreya@cp3.sdu.dk"
 
