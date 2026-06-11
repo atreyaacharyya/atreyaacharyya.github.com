@@ -19,6 +19,12 @@ I play an active role in large international collaborations, currently serving a
 
 I am actively involved in the scientific preparation of CTAO, contributing to analysis methodologies, software development, and population studies for the next generation of gamma-ray observations. I have also served as a Co-Principal Investigator on multi-messenger projects supported by NASA and NSF.
 
-In addition to research, I am engaged in teaching and mentoring, delivering lectures in astroparticle physics and supervising students at undergraduate and postgraduate levels.
+In addition to research, I am engaged in teaching and mentoring, delivering lectures in astroparticle physics and supervising students at undergraduate and postgraduate levels. Overall, my work aims to use the most extreme astrophysical environments as laboratories for studying particle acceleration, probing fundamental physics, and advancing our understanding of the high-energy Universe.
 
-Overall, my work aims to use the most extreme astrophysical environments as laboratories for studying particle acceleration, probing fundamental physics, and advancing our understanding of the high-energy Universe.
+## Research Highlights
+
+- Active Galactic Nuclei and blazar physics
+- Multi-messenger connections between gamma rays and neutrinos
+- Population studies and forecasting for the Cherenkov Telescope Array Observatory (CTAO)
+- Fundamental physics with extragalactic gamma rays, including searches for axion-like particles
+- Gamma-ray observations with Fermi-LAT, H.E.S.S., VERITAS, and CTAO
