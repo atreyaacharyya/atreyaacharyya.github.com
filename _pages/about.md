@@ -28,3 +28,11 @@ In addition to research, I am engaged in teaching and mentoring, delivering lect
 - Population studies and forecasting for the Cherenkov Telescope Array Observatory (CTAO)
 - Fundamental physics with extragalactic gamma rays, including searches for axion-like particles
 - Gamma-ray observations with Fermi-LAT, H.E.S.S., VERITAS, and CTAO
+
+
+## Leadership & Service
+
+- Co-chair, CTAO AGN Population Task Force
+- Fermi-LAT Analysis Lead, H.E.S.S. Multiwavelength Board
+- Member, CTAO Science Alert and Publications Office (SAPO)
+- Former Co-chair, VERITAS Blazar Working Group
