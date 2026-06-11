@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+## Biography
+
 I am an astrophysicist specializing in high-energy and multi-messenger studies of the Universe, with a particular focus on gamma-ray astronomy. I obtained my PhD from Durham University, where my research focused on understanding the physics of extreme astrophysical environments through very-high-energy gamma-ray observations.
 
 I am currently a STAR-ϕ Fellow at Université Paris-Saclay and Laboratoire de Physique des 2 Infinis Irène Joliot-Curie (IJCLab), where I conduct research on extragalactic gamma-ray astrophysics and fundamental physics. Prior to this, I was a Postdoctoral Researcher at the University of Southern Denmark, working at CP3-Origins on an ERC-funded project.
@@ -36,3 +38,4 @@ In addition to research, I am engaged in teaching and mentoring, delivering lect
 - Fermi-LAT Analysis Lead, H.E.S.S. Multiwavelength Board
 - Member, CTAO Science Alert and Publications Office (SAPO)
 - Former Co-chair, VERITAS Blazar Working Group
+
