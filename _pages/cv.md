@@ -25,8 +25,18 @@ Durham University, United Kingdom (2017)
 
 ## Professional Experience
 
+**STAR-ϕ Fellow**
+Université Paris-Saclay & IJCLab (CNRS/IN2P3), France (2026–Present)
+
+* Awarded a STAR-ϕ Fellowship through the Université Paris-Saclay Graduate School of Physics, co-funded by the European Union's Marie Skłodowska-Curie Actions (MSCA COFUND)
+* Leading studies of blazar flares and non-thermal transient sources using data from Fermi-LAT, H.E.S.S., and the upcoming Cherenkov Telescope Array Observatory (CTAO)
+* Developing methodologies for time-domain and multi-messenger astrophysics in conjunction with the FINK transient event broker of the Vera C. Rubin Observatory
+* Investigating particle acceleration, gamma-ray emission, and transient phenomena in extreme astrophysical environments
+* Contributing to CTAO science preparation, transient-source characterization, and the development of next-generation analysis frameworks
+
+
 **Postdoctoral Fellow**
-CP3-Origins, University of Southern Denmark, Denmark (2023–Present)
+CP3-Origins, University of Southern Denmark, Denmark (2023–2026)
 
 * Working on an ERC-funded project led by Prof. Manuel Meyer
 * Multi-messenger studies of AGN using Fermi-LAT, H.E.S.S., and VERITAS
