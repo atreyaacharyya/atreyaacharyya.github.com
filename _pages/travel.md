@@ -9,6 +9,17 @@ Outside work, I am an avid traveller and aim to visit at least 100 countries bef
 
 Here I will share selected photos from my travels.
 
+## Summer 2026
+*France · Durham · Edinburgh · Hamburg*
+
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; align-items: start; margin: 1.5rem 0;">
+  <img src="/images/travel/france.jpeg" alt="France" style="display: block; width: 100%; height: auto;">
+  <img src="/images/travel/edinburgh.jpeg" alt="Edinburgh" style="display: block; width: 100%; height: auto;">
+  <img src="/images/travel/durham.jpeg" alt="Durham" style="display: block; width: 100%; height: auto;">
+  <img src="/images/travel/hamburg.jpeg" alt="Hamburg" style="display: block; width: 100%; height: auto;">
+</div>
+
+
 ## Japan (May 2026)
 *Osaka · Kyoto · Fuji · Tokyo*
 
