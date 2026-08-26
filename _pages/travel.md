@@ -12,22 +12,20 @@ Here I will share selected photos from my travels.
 ## Japan (May 2026)
 *Osaka · Kyoto · Fuji · Tokyo*
 
-<img src="/images/travel/osaka.jpeg" alt="Osaka" style="display: block; width: 100%; max-width: 650px; margin: 1.5rem auto;">
-
-<img src="/images/travel/kyoto.jpeg" alt="Kyoto" style="display: block; width: 100%; max-width: 650px; margin: 1.5rem auto;">
-
-<img src="/images/travel/fuji.jpeg" alt="Fuji" style="display: block; width: 100%; max-width: 650px; margin: 1.5rem auto;">
-
-<img src="/images/travel/tokyo.jpeg" alt="Tokyo" style="display: block; width: 100%; max-width: 650px; margin: 1.5rem auto;">
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 1.5rem 0;">
+  <img src="/images/travel/osaka.jpeg" alt="Osaka" style="width: 100%; height: 260px; object-fit: cover;">
+  <img src="/images/travel/kyoto.jpeg" alt="Kyoto" style="width: 100%; height: 260px; object-fit: cover;">
+  <img src="/images/travel/fuji.jpeg" alt="Fuji" style="width: 100%; height: 260px; object-fit: cover;">
+  <img src="/images/travel/tokyo.jpeg" alt="Tokyo" style="width: 100%; height: 260px; object-fit: cover;">
+</div>
 
 
 ## Italy (March 2026)
 *La Thuile · Venice · Verona · Milan*
 
-<img src="/images/travel/la-thuile.jpeg" alt="La Thuile" style="display: block; width: 100%; max-width: 650px; margin: 1.5rem auto;">
-
-<img src="/images/travel/venice.jpeg" alt="Venice" style="display: block; width: 100%; max-width: 650px; margin: 1.5rem auto;">
-
-<img src="/images/travel/verona.jpeg" alt="Verona" style="display: block; width: 100%; max-width: 650px; margin: 1.5rem auto;">
-
-<img src="/images/travel/milan.jpeg" alt="Milan" style="display: block; width: 100%; max-width: 650px; margin: 1.5rem auto;">
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 1.5rem 0;">
+  <img src="/images/travel/la-thuile.jpeg" alt="La Thuile" style="width: 100%; height: 260px; object-fit: cover;">
+  <img src="/images/travel/venice.jpeg" alt="Venice" style="width: 100%; height: 260px; object-fit: cover;">
+  <img src="/images/travel/verona.jpeg" alt="Verona" style="width: 100%; height: 260px; object-fit: cover;">
+  <img src="/images/travel/milan.jpeg" alt="Milan" style="width: 100%; height: 260px; object-fit: cover;">
+</div>
