@@ -9,6 +9,11 @@ Outside work, I am an avid traveller and aim to visit at least 100 countries bef
 
 Here I will share selected photos from my travels.
 
+## Heidelberg, Germany (August 2026)
+
+<img src="/images/travel/heidelberg.jpg" alt="Heidelberg, Germany" style="display: block; width: 100%; height: auto; margin: 1.5rem 0;">
+
+
 ## Summer 2026
 *France · Durham · Edinburgh · Hamburg*
 
