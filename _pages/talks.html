@@ -19,35 +19,50 @@ author_profile: true
 {% endfor %}
 
 
-## Talks and presentations in pictures
+<h2>Talks and presentations in pictures</h2>
 
+<style>
+  .talk-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+    margin: 1.25rem 0;
+  }
 
-<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; align-items: start; margin: 1.5rem 0;">
+  .talk-gallery img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+
+  @media (max-width: 700px) {
+    .talk-gallery {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+</style>
+
+<div class="talk-gallery">
   <img src="/images/talks/heidelberg_2026.JPG"
-       alt="Giving a talk at the Heidelberg International Symposium in 2026"
-       style="display: block; width: 100%; height: auto; grid-column: 1 / -1;">
+       alt="Giving a talk at the Heidelberg International Symposium in 2026">
 
   <img src="/images/talks/Bologna_2024.JPG"
-       alt="Presenting at the CTAO Science Symposium in Bologna in 2024"
-       style="display: block; width: 100%; height: auto;">
+       alt="Presenting at the CTAO Science Symposium in Bologna in 2024">
 
   <img src="/images/talks/Japan_2023.JPG"
-       alt="Giving a talk at ICRC 2023 in Japan"
-       style="display: block; width: 100%; height: auto;">
+       alt="Giving a talk at ICRC 2023 in Japan">
 
   <img src="/images/talks/Japan_2023.jpeg"
-       alt="Presenting research posters at ICRC 2023 in Japan"
-       style="display: block; width: 100%; height: auto;">
+       alt="Presenting research posters at ICRC 2023 in Japan">
 
   <img src="/images/talks/Kolkata_2022.JPG"
-       alt="Giving a research presentation in Kolkata in 2022"
-       style="display: block; width: 100%; height: auto;">
+       alt="Giving a research presentation in Kolkata in 2022">
 
   <img src="/images/talks/London_2020.JPG"
-       alt="Giving a research presentation in London in 2020"
-       style="display: block; width: 100%; height: auto;">
+       alt="Giving a research presentation in London in 2020">
 
   <img src="/images/talks/Durham_2020.jpg"
-       alt="Giving a research presentation in Durham in 2020"
-       style="display: block; width: 100%; height: auto;">
+       alt="Giving a research presentation in Durham in 2020">
 </div>
