@@ -39,3 +39,91 @@ In addition to research, I am engaged in teaching and mentoring, delivering lect
 - Member, CTAO Science Alert and Publications Office (SAPO)
 - Former Co-chair, VERITAS Blazar Working Group
 
+
+
+<h2 id="contact">Get in Touch</h2>
+
+<p>
+I welcome enquiries about research collaborations,
+scientific discussions, speaking invitations, and
+other professional opportunities. Please feel free
+to get in touch using the form below.
+</p>
+
+<form
+  action="https://formspree.io/f/xbgdoerj"
+  method="POST"
+  class="contact-form"
+>
+  <label for="contact-name">Your Name</label>
+  <input
+    type="text"
+    id="contact-name"
+    name="name"
+    placeholder="Your name"
+    required
+  >
+
+  <label for="contact-email">Email Address</label>
+  <input
+    type="email"
+    id="contact-email"
+    name="email"
+    placeholder="you@university.edu"
+    required
+  >
+
+  <label for="contact-message">Your Message</label>
+  <textarea
+    id="contact-message"
+    name="message"
+    rows="6"
+    placeholder="Write your message here..."
+    required
+  ></textarea>
+
+  <input
+    type="hidden"
+    name="_subject"
+    value="New message from academic website"
+  >
+
+  <button type="submit" class="btn btn--primary">
+    Send Message
+  </button>
+</form>
+
+<style>
+.contact-form {
+  max-width: 650px;
+  margin: 1.5rem 0 2rem;
+}
+
+.contact-form label {
+  display: block;
+  margin: 1rem 0 0.4rem;
+  font-weight: 600;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font: inherit;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #2980b9;
+  outline: 2px solid #2980b933;
+}
+
+.contact-form button {
+  margin-top: 1.2rem;
+  cursor: pointer;
+}
+</style>
+
