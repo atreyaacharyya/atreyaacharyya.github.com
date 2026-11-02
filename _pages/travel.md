@@ -9,6 +9,18 @@ Outside work, I am an avid traveller and aim to visit at least 100 countries bef
 
 Here I will share selected photos from my travels.
 
+
+## Autumn 2026
+*Stockholm · Copenhagen · Innsbruck · Vaduz*
+
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; align-items: start; margin: 1.5rem 0;">
+  <img src="/images/travel/stockholm.jpg" alt="Stockholm, Sweden" style="display: block; width: 100%; height: auto;">
+  <img src="/images/travel/copenhagen.jpg" alt="Copenhagen, Denmark" style="display: block; width: 100%; height: auto;">
+  <img src="/images/travel/innsbruck.jpg" alt="Innsbruck, Austria" style="display: block; width: 100%; height: auto;">
+  <img src="/images/travel/vaduz.jpg" alt="Vaduz, Liechtenstein" style="display: block; width: 100%; height: auto;">
+</div>
+
+
 ## Heidelberg, Germany (August 2026)
 
 <img src="/images/travel/heidelberg.jpg" alt="Heidelberg, Germany" style="display: block; width: 100%; height: auto; margin: 1.5rem 0;">
