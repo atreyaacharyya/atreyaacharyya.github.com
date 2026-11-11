@@ -130,11 +130,12 @@ to get in touch using the form below.
 
 <h2>Visitors around the world</h2>
 
-<figure>
+<figure style="display:block; width:100%; max-width:350px; margin:0;">
   <img src="/images/map.png"
        alt="Map showing website visitors by country"
-       style="width:100%; max-width:350px; height:auto;">
-  <figcaption style="font-size:0.8em; color:#777;">
+       style="display:block; width:100%; height:auto;">
+
+  <figcaption style="display:block; float:none; width:100%; margin-top:8px; font-size:0.8em; color:#777; text-align:center;">
     Website visitors · January–November 2026
   </figcaption>
 </figure>
