@@ -133,7 +133,7 @@ to get in touch using the form below.
 <figure>
   <img src="/images/map.png"
        alt="Map showing website visitors by country"
-       style="width:100%; max-width:550px; height:auto;">
+       style="width:100%; max-width:350px; height:auto;">
   <figcaption style="font-size:0.8em; color:#777;">
     Website visitors · January–November 2026
   </figcaption>
