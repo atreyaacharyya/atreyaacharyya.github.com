@@ -54,6 +54,16 @@ description: "Black-hole jets, cosmic particles and tests of fundamental physics
 .page__content h2[id] {
   scroll-margin-top: 1.5em;
 }
+
+.page__content .research-photo .research-credit {
+  display: block;
+  margin-top: 0.25em;
+  overflow-wrap: anywhere;
+}
+.page__content figure.research-photo--square,
+.page__content figure.research-photo--compact {
+  max-width: 600px;
+}
 </style>
 
 ## Extragalactic gamma rays as probes of fundamental physics
@@ -77,10 +87,16 @@ Earth's atmosphere absorbs gamma rays before they reach the ground. The Large Ar
 
 I combine these observations with measurements at other wavelengths, from radio waves to X-rays. Comparing how a source behaves across the spectrum helps us understand the particles producing its light.
 
-<!-- OPTIONAL OVERVIEW PHOTO: /images/research/hess.jpg
-Add a credited photograph of the H.E.S.S. array here, using the figure
-template in research-page-notes.md. Leave this comment in place until then.
--->
+<figure class="research-photo">
+  <img src="/images/research/hess.jpg"
+       alt="The five H.E.S.S. telescopes in Namibia, with the large central telescope surrounded by four smaller telescopes"
+       width="1800" height="878"
+       loading="lazy" decoding="async">
+  <figcaption>
+    The H.E.S.S. array in Namibia uses large mirrors and fast cameras to record the brief flashes produced when gamma rays strike the atmosphere.
+    <span class="research-credit">Credit: <a href="https://www.mpi-hd.mpg.de/HESS/pages/press/2012/HESS_II_first_light/">H.E.S.S. Collaboration, Frikkie van Greunen</a>.</span>
+  </figcaption>
+</figure>
 
 ## Black-hole jets and their changing light {#black-hole-jets}
 
@@ -90,10 +106,16 @@ One question I keep returning to is where their gamma rays are produced. A jet c
 
 I use these clues to investigate how particles gain and lose energy in jets. I also study flares that look different at different wavelengths, including optical outbursts with no obvious gamma-ray counterpart. Understanding when the light changes together, and when it does not, helps us test whether the emission comes from the same place and the same population of particles.
 
-<!-- PHOTO: /images/research/fermi.jpg
-Suggested image: Fermi spacecraft or a clearly labelled illustration of a
-blazar jet. Add the original image credit when inserting the figure.
--->
+<figure class="research-photo">
+  <img src="/images/research/fermi.jpg"
+       alt="An all-sky gamma-ray map from Fermi-LAT, with the Milky Way forming a bright horizontal band and individual sources scattered across the sky"
+       width="1800" height="900"
+       loading="lazy" decoding="async">
+  <figcaption>
+    Fermi-LAT&#x27;s gamma-ray view of the sky. The bright band is our Milky Way, while many of the points away from it are distant active galaxies.
+    <span class="research-credit">Credit: <a href="https://science.nasa.gov/mission/fermi/">NASA/DOE/Fermi LAT Collaboration</a>.</span>
+  </figcaption>
+</figure>
 
 <p class="research-related">Related work:
   <a href="https://doi.org/10.1093/mnras/staa3483">Locating the gamma-ray emission region in bright blazars</a><br>
@@ -110,9 +132,16 @@ I study gamma-ray observations of possible neutrino sources to investigate wheth
 
 A neutrino arriving from the direction of a galaxy is a lead to investigate. Establishing a connection requires checking the timing, the other observations and the probability of a chance coincidence. Bringing these different kinds of evidence together is the basis of *multi-messenger astronomy*.
 
-<!-- PHOTO: /images/research/icecube.jpg
-Suggested image: IceCube Laboratory under the aurora, or a detector diagram.
--->
+<figure class="research-photo">
+  <img src="/images/research/icecube.jpg"
+       alt="The frost-covered IceCube Laboratory at the South Pole, illuminated by moonlight above snow and ice"
+       width="1800" height="1074"
+       loading="lazy" decoding="async">
+  <figcaption>
+    The IceCube Laboratory at the South Pole. Sensors buried deep in the ice detect light from particles produced in neutrino interactions.
+    <span class="research-credit">Credit: <a href="https://icecube.wisc.edu/gallery/landscapes-and-skyscapes/">Emanuel Jacobi, IceCube/NSF</a>.</span>
+  </figcaption>
+</figure>
 
 <p class="research-related">Related work:
   <a href="https://doi.org/10.3847/1538-4357/adb30c">Following up an IceCube alert towards B3 2247+381</a><br>
@@ -129,10 +158,16 @@ In one of my projects, I investigated hypothetical particles called *axion-like 
 
 By combining Fermi-LAT and H.E.S.S. observations of eleven blazars, we found no significant evidence for this contribution. Under the assumption that these particles make up all of the dark matter, our measurements rule out some combinations of their mass and interaction strength.
 
-<!-- PHOTO: /images/research/cosmic-light.jpg
-Suggested image: a galaxy field, or a simple gamma-ray absorption illustration.
-Use a different photograph from the overview if choosing H.E.S.S. here.
--->
+<figure class="research-photo research-photo--square">
+  <img src="/images/research/cosmic-light.jpg"
+       alt="Thousands of galaxies of different colours and shapes in the Hubble Ultra Deep Field"
+       width="1800" height="1643"
+       loading="lazy" decoding="async">
+  <figcaption>
+    Galaxies in the Hubble Ultra Deep Field. Their accumulated starlight, together with light re-emitted by dust, contributes to the background glow that gamma rays encounter.
+    <span class="research-credit">Credit: <a href="https://esahubble.org/images/heic1411a/">NASA, ESA, H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI), R. Windhorst (Arizona State University), and Z. Levay (STScI)</a> (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>).</span>
+  </figcaption>
+</figure>
 
 <p class="research-related">Related work:
   <a href="https://doi.org/10.1088/1475-7516/2026/10/005">Gamma-ray constraints on heavy axion-like-particle decays</a>
@@ -149,10 +184,16 @@ Using Fermi-LAT observations of the merger GW170814, I search for the predicted 
 
 This project connects a prediction from quantum physics with an astronomical observation. The gravitational waves tell us when and where a merger happened, giving us a specific place and time to search for its possible gamma-ray aftermath.
 
-<!-- PHOTO: /images/research/black-hole-merger.jpg
-Suggested image: a credited numerical simulation or artist's illustration
-of merging black holes. The caption must identify it as an illustration.
--->
+<figure class="research-photo">
+  <img src="/images/research/black-hole-merger.jpg"
+       alt="A computer visualisation of two black holes against a background of stars, showing the distortion of starlight by their gravity"
+       width="1500" height="844"
+       loading="lazy" decoding="async">
+  <figcaption>
+    A computer visualisation of two merging black holes and the way their gravity distorts the light from background stars.
+    <span class="research-credit">Credit: <a href="https://www.ligo.caltech.edu/image/ligo20160211d">SXS, the Simulating eXtreme Spacetimes (SXS) project</a>.</span>
+  </figcaption>
+</figure>
 
 <p class="research-related">Earlier work:
   <a href="https://arxiv.org/abs/2509.17599">Searching for Hawking radiation with gamma-ray observations</a>
@@ -168,9 +209,16 @@ My work uses observations of known bursts to simulate how they would look throug
 
 The aim is to identify promising events for follow-up at other wavelengths, including gamma rays, while there is still time to observe them. An important part of the work is checking which features really distinguish unusual bursts from more ordinary ones.
 
-<!-- PHOTO: /images/research/rubin.jpg
-Suggested image: Rubin Observatory at dusk, or a gamma-ray-burst illustration.
--->
+<figure class="research-photo">
+  <img src="/images/research/rubin.jpg"
+       alt="Vera C. Rubin Observatory on Cerro Pachón in Chile, silhouetted against a colourful sunset"
+       width="1800" height="1160"
+       loading="lazy" decoding="async">
+  <figcaption>
+    Vera C. Rubin Observatory on Cerro Pachón in Chile. Repeated images of the sky help us find explosions and follow how they fade.
+    <span class="research-credit">Credit: <a href="https://noirlab.edu/public/images/rubin3-CC/">NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA/A. Alexov</a> (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>).</span>
+  </figcaption>
+</figure>
 
 ## Preparing for the Cherenkov Telescope Array Observatory {#preparing-for-ctao}
 
@@ -182,8 +230,15 @@ This involves connecting the properties of the galaxies with the performance of 
 
 As co-chair of the CTAO task force studying populations of active galaxies, I help coordinate this work. I also contribute to software for monitoring the Large-Sized Telescope camera networks, supporting the operation of the instruments that will make these observations possible.
 
-<!-- PHOTO: /images/research/ctao.jpg
-Suggested image: a Large-Sized Telescope photograph or a labelled CTAO rendering.
--->
+<figure class="research-photo research-photo--compact">
+  <img src="/images/research/ctao.jpg"
+       alt="The large mirrored dish of LST-1 beneath the night sky at the Roque de los Muchachos Observatory on La Palma"
+       width="1024" height="683"
+       loading="lazy" decoding="async">
+  <figcaption>
+    LST-1 at the Roque de los Muchachos Observatory on La Palma, one of the Large-Sized Telescopes being developed for CTAO.
+    <span class="research-credit">Credit: <a href="https://www.ctao.org/emission-to-discovery/array-sites/ctao-north/">Tomohiro Inada</a>.</span>
+  </figcaption>
+</figure>
 
 For the papers behind these projects, visit my [publications page](/publications/).
